@@ -1,2 +1,4 @@
 # fsv
-File Size Viewer
+File Size Viewer  
+
+選択したフォルダをサブフォルダまで調べて一覧をだして、サイズが大きい順に並べる。
